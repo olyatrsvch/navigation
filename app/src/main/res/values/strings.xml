@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Google It</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Action Bar -->
+    <string name="abHome">Home</string>
+    <string name="abLogin">Login</string>
+    <string name="abWeb">Google It</string>
+
+    <!-- Bottom Navigation -->
+    <string name="bnHome">Home</string>
+    <string name="bnLogin">Login</string>
+    <string name="bnWeb">Web</string>
+    <string name="bnProfile">Profile</string>
+
+    <!-- Login Fragment -->
+    <string name="btnLogin">Login</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="btnLogOut">Logout</string>
+
+    <!-- Registration Fragment -->
+
+    <!-- Profile Fragment -->
+</resources>
